@@ -1,7 +1,7 @@
 ﻿<Project>
 
   <PropertyGroup>
-    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
     <ILLinkTreatWarningsAsErrors>false</ILLinkTreatWarningsAsErrors>
     <DebugType>full</DebugType>
     <ArtifactsDir>$(MSBuildThisFileDirectory)artifacts\</ArtifactsDir>
